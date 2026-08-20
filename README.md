@@ -103,21 +103,24 @@ https://github.com/saeedallam/subtrackr-backend
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=saeedallam&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saeedallam/saeedallam/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/saeedallam/saeedallam/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/saeedallam/saeedallam/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/saeedallam/saeedallam/output/github-snake.svg"
+  />
+</picture>
 
 </div>
 
