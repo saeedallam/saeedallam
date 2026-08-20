@@ -103,18 +103,6 @@ https://github.com/saeedallam/subtrackr-backend
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=saeedallam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedallam&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
